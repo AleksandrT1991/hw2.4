@@ -8,7 +8,7 @@ public class Main {
         if (result) {
             System.out.println("Логин и пароль корректные");
         }else {
-            System.out.println("Логин и/или пароль некорректный");
+            System.out.println("Логин и/или пароль некорректны");
         }
     }
 }
